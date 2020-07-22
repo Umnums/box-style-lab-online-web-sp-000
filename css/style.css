@@ -66,3 +66,6 @@ body img {
 body{
   background-image: url("../images/white-wood.jpg")
 }
+h4{
+  background: linear-gradient(to right, #e66465, #9198e5)
+}
